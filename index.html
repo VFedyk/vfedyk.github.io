@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -58,7 +57,7 @@ Windows XP, IIS6, with love
 	<script type="text/javascript">
 		$(function(){
 			$(window).click(function(){
-				var element = document.getElementById('fedykSiteBody');
+				var element = document.body;
 				var requestMethod = element.requestFullScreen || element.webkitRequestFullScreen || element.mozRequestFullScreen || element.msRequestFullScreen;
 
 				if (requestMethod) { // Native full screen.
@@ -79,10 +78,7 @@ Windows XP, IIS6, with love
 					}
 				}
 
-                //var that=this;
                 _gaq.push(['_trackEvent','Fullscreen','Clicks']);
-
-                //return false;
 			});
 		});
 
