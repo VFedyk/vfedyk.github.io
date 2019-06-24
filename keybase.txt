@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/vfedyk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fedyk.in
+  * I am vfedyk (https://keybase.io/vfedyk) on keybase.
+  * I have a public key ASDgBtnijOxJtOaDYCsMhN_elmoKOKh5Ul9viSVEt77NhQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e006d9e28cec49b4e683602b0c84dfde966a0a38a879525f6f892544b7becd850a",
+      "host": "keybase.io",
+      "kid": "0120e006d9e28cec49b4e683602b0c84dfde966a0a38a879525f6f892544b7becd850a",
+      "uid": "f6560bc582df36b42715eddab6658119",
+      "username": "vfedyk"
+    },
+    "merkle_root": {
+      "ctime": 1561376055,
+      "hash": "0e913d7f38994b8335e591348652120fa07f306397ed74444ab77b91ae16e8fe970608633030c3df4637e646f0dcc92c0cca5a0f72d9b2895b57a80393d75f5e",
+      "hash_meta": "24656bceb8ffadd07192d122832846bad01402539267564fc6b7fd9ba84acba5",
+      "seqno": 5627365
+    },
+    "service": {
+      "entropy": "fpMMzaWYu6juJHm9kVK/EPOi",
+      "hostname": "fedyk.in",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1561376067,
+  "expire_in": 504576000,
+  "prev": "688b139368990fb9c7393fa69433b76e83fe35a24e61a7521ce7e1ab02bfe170",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4AbZ4ozsSbTmg2ArDITf3pZqCjioeVJfb4klRLe+zYUKp3BheWxvYWTESpcCCcQgaIsTk2iZD7nHOT+mlDO3boP+NaJOYadSHOfhqwK/4XDEIEQdV2lmi41w/prCqZKXRpog1HMOtQzIN88Bv8rET9kHAgHCo3NpZ8RAeYf6giadFJgFGqtaVSo4YBmJMhbC2v+ljBLxDPmhBI3m24mzr2tjuC3G5je1FZr9ivJtFvXhevJHSyiHt7cVAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGin35RzSESmeO7iqSRQdExwLH63oDkvCfkS5GKwMDjko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vfedyk
+
+==================================================================
