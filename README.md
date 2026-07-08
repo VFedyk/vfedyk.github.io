@@ -1,4 +1,3 @@
-# fedyk.in
-(vfedyk.github.io)
+# vfedyk.github.io
 
 Just a personal webpage
